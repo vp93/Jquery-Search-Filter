@@ -3,4 +3,4 @@ A super light-weight search filter made using only jquery-based filtering. This 
 
 live version : https://codepen.io/Vinnn/pen/BVKMeB 
 
-Feel free to use, modify, redistribute and use in your own projects. 
+Feel free to modify, redistribute and use in your own projects. 
